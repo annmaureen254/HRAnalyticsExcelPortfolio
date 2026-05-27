@@ -1,5 +1,5 @@
 # HRAnalyticsExcelPortfolio
-# PROJECT TITLE: People Analytics Dashboard: Workforce Intelligence for a Global Employer
+### PROJECT TITLE: People Analytics Dashboard: Workforce Intelligence for a Global Employer
 # PREPARED BY: Ann Maureen Wangui Ngina
 # DATE 27th May 2026
 
