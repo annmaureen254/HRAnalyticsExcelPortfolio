@@ -7,7 +7,7 @@ This analysis was commissioned to support a workforce equity review and talent r
 
 TABLE OF CONTENTS
 
-Sheet	Name 	Contents
+Sheet	Name 		Contents
 
 1	ReadMe	Project overview, authorship, and navigation guide
 
