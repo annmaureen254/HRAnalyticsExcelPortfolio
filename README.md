@@ -1,7 +1,7 @@
 # HRAnalyticsExcelPortfolio
 ### PROJECT TITLE: People Analytics Dashboard: Workforce Intelligence for a Global Employer
-# PREPARED BY: Ann Maureen Wangui Ngina
-# DATE 27th May 2026
+### PREPARED BY: Ann Maureen Wangui Ngina
+#### DATE 27th May 2026
 
 ENGAGEMENT FRAMING This analysis was commissioned to support a workforce equity review and talent retention strategy across a 6-city global workforce. All findings are data-driven and presented for executive decision-making.
 
